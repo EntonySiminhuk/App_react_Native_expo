@@ -1,1 +1,1 @@
-# Projeto Rocketseat <nlw/>unite
+# Projeto Rocketseat nlw-unite
